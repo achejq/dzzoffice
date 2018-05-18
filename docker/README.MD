@@ -1,7 +1,7 @@
 ### Build & Run
 
 ```
-git clone https://github.com/zyx0814/dzzoffice.git && cd dzzoffice
+git clone -b docker https://github.com/zyx0814/dzzoffice.git && cd dzzoffice
 chmod 777 -R data config dzz 
 docker-compose up -d
 ```
